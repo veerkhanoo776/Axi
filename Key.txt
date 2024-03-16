@@ -23,6 +23,7 @@
 1-0-2-6-8-u-0-_-a-2-6-8 mathod check 
 1-0-3-3-3-u-0-_-a-3-3-3 mathod check 
 1-0-4-7-6-u-0-_-a-4-7-6 mathod check 
+1-0-2-2-0-u-0-_-a-2-2-0 mathod check 
 
 
 
