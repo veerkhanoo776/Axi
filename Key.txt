@@ -21,4 +21,5 @@
 1-0-5-5-7-u-0-_-a-5-5-7 atal
 1-1-5-0-0-u-0-_-a-1-5-0-0 fali
 1-0-6-7-7-u-0-_-a-6-7-7 mathod check
-1-0-3-7-8-u-0-_-a-3-7-8 mathod check 
+1-0-3-7-8-u-0-_-a-3-7-8 mathod check
+1-0-2-2-0-u-0-_-a-2-2-0 mathod check 
